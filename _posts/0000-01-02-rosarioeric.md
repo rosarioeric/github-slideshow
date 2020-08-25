@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide"
 ---
-Your text
+Wrecked 'em, damn near killed 'em!
 Use the left arrow to go back!
